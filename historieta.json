@@ -1,0 +1,78 @@
+{
+"origin":[
+    "#[NOM_ESP:#NOMBRE#]HISTORIA#"
+],
+"HISTORIA":[
+    "Este era un #ANIMAL# llamado #NOMBRE# que vivia en #LUGAR#.\nUn día, #SUCESO#. Decidió entonces #RESOLUCION#.\n#FIN.capitalize#.",
+    "#NOMBRE# era un #ANIMAL# que vivia en #LUGAR#.Sin embargo, #SUCESO# cierto día. Decidió entonces #RESOLUCION#.\n#FIN.capitalize#.",
+    "#NOM_ESP# era un #ANIMAL# que vivia en #LUGAR#. \nUn día, #SUCESO#. Pobre #NOM_ESP#.\nDecidió entonces #RESOLUCION#.\n#FIN.capitalize#."
+],
+
+"ANIMAL":[
+    "pato",
+    "pollo",
+    "conejo",
+    "caballo",
+    "sapo",
+    "rinoceronte",
+    "oso"
+],
+"NOMBRE":[
+    "Gordo",
+    "Zenobio",
+    "Casimiro",
+    "Godofredo",
+    "Harry",
+    "Muerte",
+    "Mike, el cholo",
+    "Tarantino",
+    "Gotita de rocío"
+],
+"LUGAR":[
+    "la selva",
+    "la UACM",
+    "Stalingrado",
+    "una comuna hippie",
+    "el bosque",
+    "Marte",
+    "Tepito",
+    "la pirámide del Sol",
+    "en el pasado"
+],
+"SUCESO":[
+    "perdió su celular",
+    "mataron a su maestro",
+    "robaron #OBJETO#",
+    "encontró #OBJETO#",
+    "quemaron su casa",
+    "lo persiguieron los aldeanos",
+    "lo abdujo un OVNI",
+    "lo maldijo una bruja"
+],
+"OBJETO":[
+    "el halcón maltés",
+    "la espada Excalibur",
+    "el Necronomicon",
+    "el Necromnomnomnomnicon",
+    "el aleph",
+    "el santo grial",
+    "su corazón"
+],
+"RESOLUCION":[
+    "irse a Acapulco",
+    "conquistar el mundo",
+    "quemar todo el maldito lugar",
+    "tomárselo todo con calma",
+    "ir por un poco de agua",
+    "comprar papel de baño",
+    "regalar su cabello a las niñas con cancer",
+    "aprender malabares"
+],
+"FIN":[
+    "colorín colorado, este cuento ha acabado",
+    "el fin",
+    "y seacabuche",
+    "tan cierto hoy como en aquél tiempo",
+    "y tan tan"
+]
+}

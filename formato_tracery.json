@@ -1,0 +1,14 @@
+{
+"origin":[
+    "#TEXTO#"
+],
+"TEXTO":[
+    "Ésta es la #OPCION#"
+],
+"OPCION":[
+    "opción uno",
+    "opción dos",
+    "opción tres"
+]
+
+}
